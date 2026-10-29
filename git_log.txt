@@ -1,0 +1,25 @@
+* d8a1ba5 - Olav Hagset, 49 seconds ago : Requirements.txt
+* 2561409 - Olav Hagset, 2 minutes ago : Remove git_log
+* 4beaf80 - Olav Hagset, 7 minutes ago : Log of commits
+* 08c5a60 - Olav Hagset, 11 minutes ago : Added git link
+* 1fcaec5 - Olav Hagset, 13 minutes ago : Added git link
+* 139eebe - Olav Hagset, 4 days ago : Task 5: complete workflow with reports
+* ee969c8 - Olav Hagset, 4 days ago : Task 5 reports
+* 40b4581 - Olav Hagset, 4 days ago : Task 5 corrected df
+* 803d31c - Olav Hagset, 4 days ago : Task 5 cleaned df
+* 429a8af - Olav Hagset, 4 days ago : Task 5 transaction dataframe
+* ec83690 - Olav Hagset, 4 days ago : Task 5 transactions
+* 9189eb0 - Olav Hagset, 4 days ago : Task 5 data directory
+* 2aa100b - Olav Hagset, 4 days ago : Keep assignment work in Deliverable_2 notebook
+* a35b10c - Olav Hagset, 4 days ago : Task 4 part 4
+* fa2b822 - Olav Hagset, 4 days ago : Small fix Task 4
+* 30449dd - Olav Hagset, 4 days ago : Task 4 part 3
+* 4d17ca5 - Olav Hagset, 4 days ago : Task 4 part 1
+* deeb60a - Olav Hagset, 4 days ago : Task 3 Part 2
+* 9701939 - Olav Hagset, 4 days ago : Task 3 part 1
+* 67c248d - Olav Hagset, 4 days ago : Task 2 Fin
+* eb5d63d - Olav Hagset, 6 days ago : Part 1 Task 2
+* d05fdb3 - Olav Hagset, 6 days ago : Task 1 smll fixes; finished
+* bf061d8 - Olav Hagset, 6 days ago : Task 1 Finished
+* 5db795c - Olav Hagset, 6 days ago : Task 1 start + generated files
+* c7b3167 - Olav Hagset, 8 days ago : Initial commit
